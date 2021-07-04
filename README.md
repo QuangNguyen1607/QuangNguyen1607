@@ -35,6 +35,16 @@ Hi, I'm a Front End Developer!!
 <a href="https://github.com/QuangNguyen1607">
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false">
 </a>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false">
+  </a>
+</p>
+
 <br />
 <br />
 
