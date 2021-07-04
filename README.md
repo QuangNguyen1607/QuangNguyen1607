@@ -31,10 +31,9 @@ Hi, I'm a Front End Developer!!
  <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-     <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false">
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
   </a>
 </p>
- <br/>
 
 ## 📊 Github stats
  <br/>
