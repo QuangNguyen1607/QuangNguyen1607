@@ -1,5 +1,7 @@
 ### Hi there, I'm [Nguyên][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 <a href="https://www.facebook.com/lequangnguyenn/">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/QuangNguyen1607/Github/master/Icon/facebook1.svg?token=ANJJ6JFKFO476ZP3MPVYKVLA4HMPG" />
 </a>
