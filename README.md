@@ -25,9 +25,11 @@ Hi, I'm a Front End Developer!!
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 <br />
 <br />
+<p align="center">
 <a href="https://github.com/QuangNguyen1607">
   <img align="center" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/QuangNguyen1607">
@@ -35,11 +37,6 @@ Hi, I'm a Front End Developer!!
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/QuangNguyen1607">
- <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false">
-</a>
-</p>
 
 ## 🔥 Streak stats
 
