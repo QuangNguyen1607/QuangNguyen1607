@@ -20,18 +20,7 @@ Hi, I'm a Front End Developer!!
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 <br />
 <br />
-<a href="https://github.com/QuangNguyen1607">
-  <img align="center" src="https://github-readme-stats.quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/QuangNguyen1607">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/QuangNguyen1607">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.quangnguyen1607.vercel.app/api/pin/?username=quangnguyen1607&repo=github-readme-stats&theme=material-palenight" />
-</a>
+(https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&hide=contribs,prs)
 
 <br />
 <br />
