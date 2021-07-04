@@ -21,7 +21,7 @@ Hi, I'm a Front End Developer!!
 <br />
 <br />
 https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&hide=contribs,prs
-![Anurag's GitHub stats](https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&hide=contribs,prs)
 
 <br />
 <br />
