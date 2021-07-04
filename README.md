@@ -25,9 +25,8 @@ Hi, I'm a Front End Developer!!
 </a>
 
 <a href="https://github.com/QuangNguyen1607">
-  <img align="center" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&layout=compact&theme=material-palenight" />
 </a>
-
 <a href="https://github.com/QuangNguyen1607">
  <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false">
 </a>
