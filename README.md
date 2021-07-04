@@ -20,7 +20,7 @@ Hi, I'm a Front End Developer!!
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 <br />
 <br />
-(https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&hide=contribs,prs)
+https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&hide=contribs,prs
 
 <br />
 <br />
