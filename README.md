@@ -31,14 +31,14 @@ Hi, I'm a Front End Developer!!
  <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-     <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false6">
   </a>
 </p>
 
 ## 📊 Github stats
  <br/>
-    <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&langs_count=8&layout=compact&theme=material-palenight&hide_border=true" height="192px"/></a>
   <br/>
 <br />
 <br />
