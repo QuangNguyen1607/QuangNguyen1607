@@ -26,23 +26,6 @@ Hi, I'm a Front End Developer!!
 <br />
 <br />
 
-## 🔥 Most Used languages stats
-
-<p align="center">
-<a href="https://github.com/QuangNguyen1607">
-  <img align="center" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-</p>
-
-## 🔥 Most Used languages stats
-
-<p align="center">
-<a href="https://github.com/QuangNguyen1607">
-  <img src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&layout=compact&theme=material-palenight" />
-</a>
-</p>
-
-
 ## 🔥 Streak stats
 
 <p align="center">
@@ -52,7 +35,10 @@ Hi, I'm a Front End Developer!!
 </p>
 
 ## 📊 Github stats
-
+ <br/>
+    <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -60,27 +46,7 @@ Hi, I'm a Front End Developer!!
     <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api/top-langs/?username=quangnguyen1607&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#219](https://github.com/DenverCoder1/jct-discord-bot/pull/219) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🎉 Merged PR [#4](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/4) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-3. 💪 Opened PR [#4](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/4) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-4. 🎉 Merged PR [#18](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/pull/18) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-5. 🗣 Commented on [#18](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary/issues/18) in [DenverCoder1/LaTeX-Gboard-Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary)
-<!--END_SECTION:activity-->
-</details>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 
 <br />
 <br />
