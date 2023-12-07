@@ -14,7 +14,9 @@
 
 Hi, I'm a Front End Developer!!
 
-- 🥅 2021 Goals: Become a WordPress Developer
+- 🥅 2021 Goals: WordPress Developer ✅
+- 🥅 2022 Goals: React Native Developer ✅
+- 🥅 2023 - 2024 Goals: Smart Contract Engineer ✅
 
 **Languages and Tools:**
 
