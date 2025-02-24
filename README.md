@@ -5,18 +5,13 @@
 
 ## 🙋‍♂️ Connect with me
 
-<a href="https://www.facebook.com/lequangnguyenn/">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/QuangNguyen1607/Github/master/Icon/facebook1.svg?token=ANJJ6JFKFO476ZP3MPVYKVLA4HMPG" />
-</a>
 
-<br />
-<br />
-
-Hi, I'm a Front End Developer!!
+Hi, I'm a Building!!
 
 - 🥅 2021 Goals: WordPress Developer ✅
 - 🥅 2022 Goals: React Native Developer ✅
-- 🥅 2023 - 2024 Goals: Smart Contract Engineer 
+- 🥅 2023 - 2024 Goals: Smart Contract Engineer ❌
+- 🥅 2025: Noviebook - Sass Building
 
 **Languages and Tools:**
 
