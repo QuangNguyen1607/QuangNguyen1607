@@ -6,17 +6,16 @@
 ## 🔥 Streak stats
 
  <br/>
-<p align="center">
+<p align="">
   <a href="#">
      <img src = "https://github-readme-streak-stats.herokuapp.com?user=quangnguyen1607&theme=material-palenight&hide_border=false6">
   </a>
+     <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" height="192px"/></a>
 </p>
 
 ## 📊 Github stats
  <br/>
- <p align="center">
-    <a href="https://github.com/QuangNguyen1607"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-986zh5dio-quangnguyen1607.vercel.app/api?username=quangnguyen1607&show_icons=true&count_private=true&theme=material-palenight&hide_border=true" height="192px"/></a>
- </p>
+
 <br />
 <br />
 
